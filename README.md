@@ -1,5 +1,5 @@
 # CapsNet_for_NER
-[Capsule Network adapted for Name Entity Recognition with the CoNLL-2003 Shared Task](Capsule Network adapted for Name Entity Recognition with the CoNLL-2003 Shared Task).  
+[Capsule Network adapted for Name Entity Recognition with the CoNLL-2003 Shared Task](https://github.com/Chucooleg/CapsNet_for_NER/blob/master/Named_Entity_Recognition_with_Capsule_Network.pdf).  
 <hr>  
 
 ## Usage
